@@ -12,7 +12,7 @@
 
 ## About
 
-The project **LaunchStore** is e-commerce that was created during the classes of the course **Bootcamp - LaunchBase** taught by **Rocketseat** with the purpose of practice all content learned during the course.
+The project **LaunchStore** is e-commerce that was created during the classes of the course [Bootcamp - LaunchBase](https://github.com/pedrolssilva/LaunchBase-3_0)** taught by [Rocketseat](https://rocketseat.com.br/) with the purpose of practice all content learned during the course.
 
 ## Features
 
@@ -55,3 +55,35 @@ The project was built using the following technologies and libraries:
 - [PostgreSQL](https://www.postgresql.org/download/) - A powerful, open source object-relational database. Some important things beneath:
     - [Setting the database used into this project](https://github.com/pedrolssilva/LaunchStore/blob/master/src/config/db.js);
     - [SQL file to auxiliary in the database creation of tables, columns, constraints, etc.](https://github.com/pedrolssilva/LaunchStore/blob/master/launchstoredb.sql);
+
+
+##### 👉 Após instalar as ferramentas:
+
+```bash
+
+#->Into terminal:
+
+# Clone the repository
+$ git clone git@github.com:pedrolssilva/LaunchStore.git
+
+# Open the project folder and run in your code editor
+$ cd Launchstore && code .
+
+# Create the database using the file launchstoredb.sql
+
+# Execute the seeds.js to populate the database
+$ node src/config/seeds.js
+
+# Install the project dependecies
+$ npm install
+
+# Start the server
+$ npm start
+
+# Acess using the following address:
+  - automatically (open when the server is started by the command above), if not open a new browser page, type: http://localhost:3000/
+
+# How to login in the system:
+  - email: get in the table "users" into the database created after run the seeds.js;
+  - senha: 1111
+  ```
