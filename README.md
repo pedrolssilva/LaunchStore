@@ -12,7 +12,7 @@
 
 ## About
 
-The project **LaunchStore** is e-commerce that was created during the classes of the course [Bootcamp - LaunchBase](https://github.com/pedrolssilva/LaunchBase-3_0)** taught by [Rocketseat](https://rocketseat.com.br/) with the purpose of practice all content learned during the course.
+The project **LaunchStore** is e-commerce that was created during the classes of the course **[Bootcamp - LaunchBase](https://github.com/pedrolssilva/LaunchBase-3_0)** taught by **[Rocketseat](https://rocketseat.com.br/)** with the purpose of practice all content learned during the course.
 
 ## Features
 
